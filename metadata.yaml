@@ -1,0 +1,31 @@
+_repo: Rhymes-for-Harry-and-His-Nurse-Maid_45168
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45168-h/images/cover-image1.jpg
+creator:
+  author:
+    agent_name: Arthington, Maria
+    deathdate: 1863
+    gutenberg_agent_id: '43132'
+    url: http://www.gutenberg.org/2009/agents/43132
+description: ''
+gutenberg_issued: '2014-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45168'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s poetry'
+- !lcsh 'Children -- Conduct of life -- Juvenile poetry'
+- !lcsh 'Mothers -- Juvenile poetry'
+- !lcsh 'Nursery rhymes'
+- !lcc 'PZ'
+- !lcsh 'Infants -- Juvenile poetry'
+- !lcsh 'Nannies -- Juvenile poetry'
+- !lcsh 'Conduct of life -- Juvenile poetry'
+title: Rhymes for Harry and His Nurse-Maid
+url: http://www.gutenberg.org/ebooks/45168
