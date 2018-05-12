@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '43132'
     url: http://www.gutenberg.org/2009/agents/43132
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45168#Rhymes-for-Harry-and-His-Nurse-Maid
 gutenberg_issued: '2014-03-18'
 gutenberg_type: Text
 identifiers:
